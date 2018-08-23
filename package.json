@@ -13,7 +13,8 @@
     "run-sequence": "^2.2.1",
     "gulp-typescript": "^4.0.2",
     "tslint": "~5.7.0",
-    "typescript": "^3.0.1"
+    "typescript": "^3.0.1",
+    "@types/jquery": "^3.3.6"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
